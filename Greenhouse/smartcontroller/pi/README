@@ -1,0 +1,3 @@
+Run by the following script:
+python pimana.py -u http://163.180.117.35/smartcontroller/house/text.php
+
