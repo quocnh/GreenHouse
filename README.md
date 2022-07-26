@@ -1,6 +1,6 @@
 # GreenHouse
 
-Build an autonomous platform which is integrated in smarthouses for plaining ginseng \
+An autonomous platform which is integrated in smarthouses for plaining ginseng \
 Algorithm to adapt automatically the suitable environment in green house.
 Based on Raspberry Pi Kit as an brain controller. All devices in house are managemented as well.
 
